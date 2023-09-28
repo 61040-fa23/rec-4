@@ -17,11 +17,6 @@ export default class LabelConcept {
 
     async read(creator: ObjectId) {
       // TODO 2: How could we get only the labels created by a specific user?
-
-
-      // TODO 3: How could we get all the labels in alphabetical order?
-      // Hint: does sorting in an ascending fashion or descending fashion make more sense?
-
     }
   
     async delete(_id: ObjectId) {

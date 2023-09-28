@@ -54,7 +54,7 @@ const operations = [
     fields: { id: "input" },
   },
 
-  // TODO 5: How can we edit the testing client to test our label concept? 
+  // TODO 4: How can we edit the testing client to test our label concept? 
   
 ];
 
