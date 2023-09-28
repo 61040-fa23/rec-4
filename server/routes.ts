@@ -71,7 +71,7 @@ class Routes {
     return Post.delete(_id);
   }
 
-  // TODO 4: How can we add routes to test our label concept? 
+  // TODO 3: How can we add routes to test our label concept? 
 
 
 }
